@@ -1,5 +1,5 @@
-![Lobby](./images/gamelobby.png)
-![Gameplay](./images/gameplay.png)
+![Lobby](/chess-frontend/images/gamelobby.png)
+![Gameplay](/chess-frontend/images/gameplay.png)
 
 ♟️ MyChess
 
