@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.egg
+*.egg-info/
+*.so
+.env
+venv/
+ENV/
+env/
+.Python
+
+# FastAPI / Uvicorn
+*.log
+*.db
+instance/
+.pytest_cache/
+coverage/
+htmlcov/
+.cache/
+dist/
+build/
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Testing and Migrations
+.mypy_cache/
+pytest_cache/
+.tox/
+.coverage
+*.sqlite3
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# Local configuration
+config.local.json
+secrets.json
+
+# Redis dump (if used)
+dump.rdb
